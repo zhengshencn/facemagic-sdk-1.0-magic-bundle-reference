@@ -1,12 +1,6 @@
-# My Awesome Book
+# 魔法配置文件说明文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-|t1|t2|t3|
-|---|---|---|
-|xx|xx||
-|yy||yy|
-
+此文档介绍了魔法配置文件的基本结构和配置规则，并提供实例供读者参考。
 
 
 
