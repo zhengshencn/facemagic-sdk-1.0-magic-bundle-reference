@@ -4,7 +4,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 |t1|t2|t3|
 |---|---|---|
-|xx|xx|
+|xx|xx||
 |yy||yy|
 
 
