@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [关于](chapter1.md)
-* 版本
+* [版本](ban_ben.md)
 
