@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [版本](version.md)
-* [名词](GLOSSARY.md)
+* [名词解释](GLOSSARY.md)
 * [序列帧魔法文件](frame.md)
    * [目录结构](frame-structure.md)
    * [配置文件](frame-config.md)
