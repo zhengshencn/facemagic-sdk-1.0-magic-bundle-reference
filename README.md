@@ -9,9 +9,8 @@
 # 目标受众
 
 `FaceMagic`魔法文件手册主要供以下开发人员使用
-1. `FaceMagic`魔法内容的设计和开发人员
-1. 使用`FaceMagicSDK`应用的开发人员
-1. 使用`FaceMagicSDK`应用的测试人员
+1. `FaceMagic`魔法内容的设计、开发和测试人员
+1. 使用`FaceMagicSDK`应用的设计、开发和测试人员
 
 
 
