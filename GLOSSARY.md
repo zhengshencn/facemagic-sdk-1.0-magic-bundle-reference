@@ -1,5 +1,4 @@
-# Glossary
+# 名词解释
 
-## FaceMagic魔法文件
-
+|名词||
 魔法文件
