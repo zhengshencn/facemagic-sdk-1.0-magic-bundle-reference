@@ -1,2 +1,74 @@
 # 配置文件
-
+序列帧魔法
+# Schema
+```
+序列帧魔法
+{
+   "$schema":"http://json-schema.org/draft-04/schema#",
+   "type":"object",
+   "properties":{
+      "action":{
+         "type":"string"
+      },
+      "haveoccasion":{
+         "type":"integer"
+      },
+      "param":{
+         "type":"array",
+         "items":{
+            "type":"object",
+            "properties":{
+               "images":{
+                  "type":"array",
+                  "items":{
+                     "type":"string"
+                  }
+               },
+               "event":{
+                  "type":"string"
+               },
+               "eventoccasion":{
+                  "type":"integer"
+               },
+               "fps":{
+                  "type":"integer"
+               },
+               "index":{
+                  "type":"integer"
+               },
+               "r":{
+                  "type":"integer"
+               },
+               "s":{
+                  "type":"array",
+                  "items":{
+                     "type":"number"
+                  }
+               },
+               "h":{
+                  "type":"array",
+                  "items":{
+                     "type":"number"
+                  }
+               }
+            },
+            "required":[
+               "images",
+               "event",
+               "eventoccasion",
+               "fps",
+               "index",
+               "r",
+               "s",
+               "h"
+            ]
+         }
+      }
+   },
+   "required":[
+      "action",
+      "haveoccasion",
+      "param"
+   ]
+}
+```
