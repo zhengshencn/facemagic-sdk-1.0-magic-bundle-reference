@@ -2,7 +2,7 @@
 <!-- toc -->
 
 ## 背景透明的视频特效
-详情请参考`FaceMagic SDK`中附带的`2.	花瓣`特效。
+详情请参考`FaceMagic SDK`中附带的`花瓣`特效。
 ```
 {
    "video":"xin.mp4",
