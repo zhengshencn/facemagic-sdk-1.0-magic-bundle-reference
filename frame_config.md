@@ -1,9 +1,6 @@
 # 图片序列帧特效配置文件
 
 <!-- toc -->
-## 参数
-
-### haveoccasion
 
 ## JSON Schema
 JSON Schema可用于JSON文件的自动化验证。
