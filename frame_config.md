@@ -5,8 +5,10 @@
 + 序列帧文件索引
 + 播放参数
 
-## JSON Schema
 
+
+## JSON Schema
+JSON Schema可用于JSON文件的自动化验证。
 ```
 {
    "$schema":"http://json-schema.org/draft-04/schema#",
