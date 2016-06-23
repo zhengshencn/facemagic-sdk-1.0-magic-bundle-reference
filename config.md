@@ -7,7 +7,9 @@
 + 序列帧文件索引
 + 播放参数
 
-
+ * [序列帧配置文件示例](frame_config.md)
+ * [视频配置文件示例](video_config.md)
+ * [面部特征点说明](fr_diagram.md)
 
 ## 参数索引
 <!-- toc -->
