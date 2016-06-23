@@ -9,7 +9,6 @@
    * [图片序列帧特效配置文件](frame_config.md)
    * [全屏视频特效配置文件](video_config.md)
    * [面部特征点说明](fr_diagram.md)
-   * [配置文件参数](parameters.md)
 * [示例](example.md)
 * [内容规格说明](spec.md)
    * [图片序列帧文件规格说明](frame_spec.md)
