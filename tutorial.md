@@ -10,8 +10,8 @@
 创建纯文本文件`config.json`,与`png`文件一同放置于·bundle·目录内。有关配置文件详情，请参考[配置文件](config.md)
 ## 4. 打包
 使用任何支持`zip`压缩格式的软件，将`*.bundle`目录(在本例中是`nijia.bundle`)压缩生成任意文件名的`zip`文件, 如`nijia.zip`。请注意保证`nijia.bundle`目录存在于zip文件的根目录下，既保证`zip`文件根目录下仅有此`nijia.bundle`一个文件(序列帧文件和配置文件在`nijia.bunble`目录里)。
-具体文件结构，请参考
+具体文件结构，请参考[目录结构](frame_structure.md)
 ## 5. 测试
-使用`FaceMagic SDK`特效测试工具在设备端测试特效
+使用`FaceMagic SDK`特效测试工具在设备端测试特效。请参考
 ## 6. （可选）发布
 测试通过后，使用*合作伙伴帐号*特效文件上传至*魔法商店*。并在`FaceMagic SDK Demo·或其他任何集成了*魔法商店*的APP上进行下载测试。
