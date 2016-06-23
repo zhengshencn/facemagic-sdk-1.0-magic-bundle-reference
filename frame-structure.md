@@ -14,4 +14,4 @@
 + 顶级目录`ninjia.bundle`
 + 配置文件`nijia.bundle/config.json`
 + 一组序列帧文件qingwachuiqiqiu00*.png
-![](img/bundle.PNG)
+![tet](img/bundle.PNG)
