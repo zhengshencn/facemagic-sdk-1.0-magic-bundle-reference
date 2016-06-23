@@ -2,8 +2,8 @@
 
 <!-- toc -->
 
-## 
-没有触发条件的序列帧特效。详情请参考`FaceMagic SDK`中附带的`Kiss`特效。
+## 没有特定触发条件的序列帧特效
+。详情请参考`FaceMagic SDK`中附带的`Kiss`特效。
 ```
 {
    "action":"imageAmin",
