@@ -1,6 +1,7 @@
 # 序列帧魔法配置文件
 
-## Schema
+## JSON Schema
+
 ```
 {
    "$schema":"http://json-schema.org/draft-04/schema#",
