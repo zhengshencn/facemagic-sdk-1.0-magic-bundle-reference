@@ -111,7 +111,7 @@
    ]
 }
 ```
-## 序列帧配置文件JSON Schema
+## 序列帧配置文件 JSON Schema
 JSON Schema可用于JSON文件的自动化验证。
 ```
 {
