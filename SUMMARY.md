@@ -8,7 +8,7 @@
    * [配置文件](frame-config.md)
        * [面部特征点说明](fr-diagram.md)
        * [序列帧魔法配置文件](frame_config.md)
-       * 视频魔法配置文件
+       * [视频魔法配置文件](video_config.md)
 * [示例](example.md)
 * [技术支持](support.md)
 
