@@ -7,6 +7,7 @@
    * [目录结构](frame-structure.md)
    * [配置文件](frame-config.md)
        * [面部特征点说明](fr-diagram.md)
+       * 序列帧魔法配置文件
 * [示例](example.md)
 * [技术支持](support.md)
 
