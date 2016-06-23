@@ -5,7 +5,14 @@
 + 序列帧文件索引
 + 播放参数
 
-
+## 参数说明
+### action
+特效类型
+|参数|说明|
+|---|---|
+|imageadmin|图片序列帧|
+|playvideo|全屏视频|
+### 
 
 ## JSON Schema
 JSON Schema可用于JSON文件的自动化验证。
