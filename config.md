@@ -156,7 +156,7 @@ JSON数组，包含一组或多组参数
 #### 取值
 |取值|说明|
 |---|---|
-|fittop|表示不随头部旋转|
+|fittop|调整到合适大小显示在屏幕顶部|
 |fitbottom|表示随头部旋转|
 |toporigin||
-|||
+|centerorigin||
