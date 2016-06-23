@@ -12,6 +12,6 @@ _# Summary
 * [示例](example.md)
 * [内容规格说明](spec.md)
   * [图片序列帧文件规格说明](frame_spec.md)
-  * [全屏视频文件规格说明](frame_spec.md)
+  * [全屏视频文件规格说明](video_spec.md)
 * [技术支持](support.md)
 
