@@ -11,8 +11,8 @@
 
 |可用值|说明|备注|
 |---|---|---|
-|imageadmin|图片序列帧|^|
-|playvideo|全屏视频|^|
+|imageadmin|图片序列帧||
+|playvideo|全屏视频||
 ### 
 
 ### haveoccasion
