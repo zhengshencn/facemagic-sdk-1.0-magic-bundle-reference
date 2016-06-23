@@ -9,10 +9,10 @@
 ### action
 特效类型
 
-|参数|说明||
+|参数|说明|123|
 |---|---|---|
-|imageadmin|图片序列帧||
-|playvideo|全屏视频||
+|imageadmin|图片序列帧|^|
+|playvideo|全屏视频|^|
 ### 
 
 ### haveoccasion
