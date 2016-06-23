@@ -10,7 +10,7 @@
 |`*.mp4`|全屏视频文件|视频动画文件，**与序列帧文件互斥**|否|`1`|
 
 # 示例
-魔法文件`ninjia.zip`包含如下内容
+特效文件`ninjia.zip`包含如下内容
 + 顶级目录`ninjia.bundle`
 + 配置文件`nijia.bundle/config.json`
 + 一组序列帧文件qingwachuiqiqiu00*.png
