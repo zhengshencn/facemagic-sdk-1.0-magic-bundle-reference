@@ -5,7 +5,7 @@ _# Summary
 * [名词解释](GLOSSARY.md)
 * [魔法文件创建流程](tutorial.md)
 * [目录结构](frame_structure.md)
-* [配置文件](frame_config.md)
+* [配置文件](config.md)
    * [序列帧魔法配置文件](frame_config.md)
    * [视频魔法配置文件](video_config.md)
    * [面部特征点说明](fr_diagram.md)
