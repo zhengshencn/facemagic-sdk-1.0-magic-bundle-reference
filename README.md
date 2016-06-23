@@ -1,4 +1,4 @@
-# FaceMagic特效文件手册
+# FaceMagic SDK 1.0 特效文件手册
 
 此文档旨在为特效文件开发者提供`FaceMagic`特效文件的简要流程、基本结构以及配置规则。
 # 关于FaceMagic SDK
