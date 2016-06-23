@@ -160,7 +160,7 @@ JSON数组，包含一组或多组参数
 |fitbottom|调整到合适大小显示在屏幕底部 （适用于序列帧）|
 |toporigin|显示在屏幕顶部 （适用于序列帧）|
 |centerorigin|显示在屏幕中央 （适用于序列帧）|
-|transparent|？ （适用于序列帧）|
+|transparent|？ （适用于视频）|
 
 ### blendmode
 视频特效显示模式*
