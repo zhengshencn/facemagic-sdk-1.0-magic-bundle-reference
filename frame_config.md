@@ -3,7 +3,7 @@
 <!-- toc -->
 
 ## Kiss特效
-
+详情请参考`FaceMagic SDK`中附带的参考特效包。
 ```
 {
    "action":"imageAmin",
