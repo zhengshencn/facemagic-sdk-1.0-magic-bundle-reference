@@ -47,6 +47,9 @@
 |---|---|
 |none|没有特效|
 |any|自动触发|
+|mouthopen|张嘴触发|
+|mouthclose|闭嘴触发|
+|eyeblink|眨眼触发|
 
 ### images
 图片序列帧，目前仅支持png
