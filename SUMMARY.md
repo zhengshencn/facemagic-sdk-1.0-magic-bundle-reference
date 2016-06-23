@@ -10,6 +10,7 @@ _# Summary
    * [全屏视频魔法配置文件](video_config.md)
    * [面部特征点说明](fr_diagram.md)
 * [示例](example.md)
+* [内容规格说明](spec.md)
 * [图片序列帧文件规格说明](frame_spec.md)
 * [全屏视频文件规格说明](frame_spec.md)
 * [技术支持](support.md)
