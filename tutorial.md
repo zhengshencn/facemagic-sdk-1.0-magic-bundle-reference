@@ -14,4 +14,4 @@
 ## 5. 测试
 使用`FaceMagic SDK`特效测试工具在设备端测试特效。请参考`FaceMagic SDK`测试工具手册。
 ## 6. （可选）发布
-测试通过后，使用*合作伙伴帐号*特效文件上传至*魔法商店*。并在`FaceMagic SDK Demo·或任何使用`FaceMagic SDK·并集成了*魔法商店*的APP里下载、使用。
+测试通过后，使用*合作伙伴帐号*特效文件上传至*魔法商店*。并在`FaceMagic SDK Demo·或任何使用`FaceMagic SDK·并集成了*魔法商店*API的APP里下载、使用。
