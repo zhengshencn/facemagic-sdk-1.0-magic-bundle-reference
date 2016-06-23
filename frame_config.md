@@ -4,6 +4,38 @@
 
 ## Kiss特效
 
+```
+{
+   "action":"imageAmin",
+   "param":[
+      {
+         "images":[
+            "qinwen000.png",
+            "qinwen001.png",
+            "qinwen002.png",
+            "qinwen003.png",
+            "qinwen004.png",
+            ...
+            "qinwen148.png",
+            "qinwen149.png",
+            "qinwen150.png"
+         ],
+         "fps":25,
+         "h":[
+            1.03,
+            -0.1
+         ],
+         "s":[
+            5.0,
+            5.0
+         ],
+         "r":1,
+         "index":27
+      }
+   ]
+}
+```
+
 ## JSON Schema
 JSON Schema可用于JSON文件的自动化验证。
 ```
