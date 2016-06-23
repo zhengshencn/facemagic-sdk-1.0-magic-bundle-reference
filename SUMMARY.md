@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [版本](version.md)
 * [名词解释](GLOSSARY.md)
-* [特效文件创建流程](tutorial.md)
+* [创建特效文件的简易流程](tutorial.md)
 * [目录结构](frame_structure.md)
 * [配置文件](config.md)
    * [序列帧配置文件示例](frame_config.md)
