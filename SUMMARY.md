@@ -1,4 +1,4 @@
-_# Summary
+# Summary
 
 * [介绍](README.md)
 * [版本](version.md)
@@ -11,7 +11,7 @@ _# Summary
    * [面部特征点说明](fr_diagram.md)
 * [示例](example.md)
 * [内容规格说明](spec.md)
-  * [图片序列帧文件规格说明](frame_spec.md)
-  * [全屏视频文件规格说明](video_spec.md)
+   * [图片序列帧文件规格说明](frame_spec.md)
+   * [全屏视频文件规格说明](videospec.md)
 * [技术支持](support.md)
 
