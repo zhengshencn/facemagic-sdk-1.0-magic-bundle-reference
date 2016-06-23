@@ -124,7 +124,6 @@ JSON数组，包含一组或多组参数
 #### 取值
 |取值|说明|
 |---|---|
-|[xScale,yScale]|xScale:x轴放大倍数，yScale:y轴放大倍数
-|
+|[xScale,yScale]|xScale:x轴放大倍数，yScale:y轴放大倍数|
 
 
