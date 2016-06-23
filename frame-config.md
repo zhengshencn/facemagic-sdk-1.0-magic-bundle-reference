@@ -1,7 +1,7 @@
 # 配置文件
-# Schema
+## 序列帧魔法配置文件
+
 ```
-序列帧魔法
 {
    "$schema":"http://json-schema.org/draft-04/schema#",
    "type":"object",
@@ -70,4 +70,6 @@
       "param"
    ]
 }
+···
+
 ```
