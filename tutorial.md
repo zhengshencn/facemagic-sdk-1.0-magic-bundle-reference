@@ -8,7 +8,7 @@
 将所有组成动画的图像文件（图片序列帧）放入bundle目录下。请参考[序列帧文件规格说明](frame-spec.md)，对组成动画的图像文件进行调节。
 ## 3. 创建特效配置文件`config.json`
 创建纯文本文件`config.json`,与`png`文件一同放置于·bundle·目录内。有关配置文件详情，请参考[配置文件](config.md)
-## 4. 创建特效文件
+## 4. 打包
 使用任何支持`zip`压缩格式的软件，将`*.bundle`目录(在本例中是`nijia.bundle`)压缩生成任意名称的`zip`文件, 如`nijia.zip`。注意保证`nijia.bundle`存在于生产的zip文件的根目录，既保证`zip`文件根目录下仅有此`bundle`目录。
 ## 5. 测试
 使用`FaceMagic SDK`特效测试工具在设备端测试特效
