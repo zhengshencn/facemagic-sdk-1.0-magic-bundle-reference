@@ -1,6 +1,8 @@
-# 序列帧配置文件
+# 序列帧配置文件模板
 
 <!-- toc -->
+
+
 
 ## JSON Schema
 JSON Schema可用于JSON文件的自动化验证。
