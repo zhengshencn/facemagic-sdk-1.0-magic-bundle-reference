@@ -11,4 +11,5 @@
    * [面部特征点说明](fr-diagram.md)
 * [示例](example.md)
 * [技术支持](support.md)
+* 序列帧文件规格说明
 
