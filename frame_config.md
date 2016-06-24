@@ -113,7 +113,7 @@
 ```
 ## 序列帧配置文件 JSON Schema
 JSON Schema可用于JSON文件的自动化验证。
-```
+```json
 {
    "$schema":"http://json-schema.org/draft-04/schema#",
    "type":"object",
