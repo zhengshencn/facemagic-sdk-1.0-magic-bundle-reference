@@ -97,7 +97,7 @@
          "event":"mouthclose",
          "eventoccasion":1,
          "fps":25,
-         "index":22,
+         "index":220,
          "r":1,
          "s":[
             1.7,
