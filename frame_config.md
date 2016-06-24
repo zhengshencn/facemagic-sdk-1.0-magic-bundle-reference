@@ -4,7 +4,7 @@
 
 ## 没有特定触发条件的序列帧特效
 详情请参考`FaceMagic SDK`中附带的`Kiss`特效。
-```
+```json
 {
    "action":"imageAmin",
    "param":[
@@ -37,7 +37,7 @@
 ```
 ## 指定触发条件的特效动画
 详情请参考`FaceMagic SDK`中附带的`大力水手`特效。
-```
+```json
 {
    "action":"imageamin",
    "haveoccasion":1,
