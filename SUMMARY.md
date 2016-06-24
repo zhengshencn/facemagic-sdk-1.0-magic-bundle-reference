@@ -12,6 +12,7 @@
 * [内容规格说明](spec.md)
    * [图片序列帧文件规格说明](frame_spec.md)
    * [全屏视频文件规格说明](videospec.md)
-* [技术支持](support.md)
 * [实例](exmaple.md)
+* [技术支持](support.md)
+
 
