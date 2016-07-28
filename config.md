@@ -162,7 +162,7 @@ JSON数组，包含一组或多组参数
 |fitbottom|调整到合适大小显示在屏幕底部|
 |toporigin|显示在屏幕顶部|
 |centerorigin|显示在屏幕中央|
-|centerorigin|全屏|
+|fullscreen|全屏|
 
 ## blendmode
 视频特效显示模式*
